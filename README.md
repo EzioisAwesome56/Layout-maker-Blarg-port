@@ -4,7 +4,7 @@ The layout maker from ABXD, ported to blargboard 1.2.4 MRS (it should work on bl
 
 This is a slightly updated version of the layout maker from ABXD. since its made for blargboard, there is a huge notice on the main page about turning on a certain setting on your profile.
 
-Instead of writing the css to a style sheet and linking it, this writes it ti the post layout header. My devboard just would not make the folder for it, so this is my solution. It works so im not complaining.
+Instead of writing the css to a style sheet and linking it, this writes it to the post layout header. My devboard just would not make the folder for it, so this is my solution. It works so im not complaining.
 
 Do note that they layouts might not look 100% like their ABXD counterpart, but most look like them enough to pass.
 
